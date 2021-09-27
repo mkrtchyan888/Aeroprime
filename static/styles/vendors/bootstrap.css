@@ -170,17 +170,17 @@
     margin-left: -8px;
 }
 
-.row.half-padding [class*="col"] {
+.row.half-padding [class*="col-"] {
     padding-right: 8px;
     padding-left: 8px;
 }
 
-[class*="col"] {
+[class*="col-"] {
     padding-right: 16px;
     padding-left: 16px;
 }
 
-.col {
+.col-12 {
     width: 100%;
 }
 
