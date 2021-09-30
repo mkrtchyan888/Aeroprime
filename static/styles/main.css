@@ -941,6 +941,9 @@ footer {
     .month {
         margin: 0 3px;
     }
+    .lnr-icons-red {
+        margin: 0 4px;
+    }
 }
 
 @media screen and (min-width: 481px) and (max-width:768px) {
