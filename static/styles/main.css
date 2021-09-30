@@ -837,7 +837,7 @@ footer {
 
 @media screen and (max-width: 768px) {
     .services-h3 {
-        height: 25px;
+        height: auto;
     }
     .top-panel-header {
         flex-direction: column;
@@ -908,7 +908,6 @@ footer {
     .header-date-calendar {
         font-size: 14px;
         display: flex;
-        margin-right: 5px;
     }
     .nav-services--wrapper {
         display: none;
